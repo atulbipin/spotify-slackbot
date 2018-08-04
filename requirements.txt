@@ -4,5 +4,6 @@ idna==2.7
 requests==2.19.1
 six==1.11.0
 slackclient==1.2.1
+spotipy==2.4.4
 urllib3==1.23
 websocket-client==0.48.0
